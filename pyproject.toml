@@ -124,6 +124,7 @@ common = [
     "pylatexenc",
     "scikit-learn",
     "setuptools",
+    "qiskit-sphinx-theme~=2.0.0",
 ]
 
 documentation = [
